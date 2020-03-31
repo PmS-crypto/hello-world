@@ -1,2 +1,2 @@
 # hello-world
-Here's a 
+Here's a basic hello world code
